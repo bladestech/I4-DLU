@@ -5,7 +5,7 @@
 ## Features
 
 - **Common Suffix Testing**: Automatically tests common domain suffixes (e.g., `.com`, `.org`, `.net`) to find valid IPv4 addresses.
-- **Full Suffix Testing**: Tests all possible domain suffixes to ensure thorough coverage.
+- **Full Suffix Testing**: Tests all possible domain suffixes *in its database* to ensure thorough coverage.
 - **Acceleration Mode**: Offers an accelerated mode to speed up the testing process, though users should be aware of potential ISP violations.
 - **User-Friendly Interface**: Simple and intuitive command-line interface for easy use.
 - **Clear Output**: Provides clear and concise output of resolved IPv4 addresses.
