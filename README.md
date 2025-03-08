@@ -21,7 +21,7 @@
 
 1. **Enter Domain Name or URL**:
    - When prompted, enter the domain name or URL you want to resolve.
-   - Example: `example`
+   - Example: `example.com` **or** `example` (*if you want to look for the suffix of a domain.*)
 
 2. **Test Common Suffixes**:
    - If no domain suffix is detected, you will be prompted to test common suffixes first (This is helpful if you can't remember a URL!).
