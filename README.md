@@ -2,6 +2,8 @@
 
 **I4-DLU (IPv4 DNS Lookup Utility)** is a powerful and user-friendly command-line tool designed to perform IPv4 DNS lookups. It allows users to easily resolve domain names and URLs to their corresponding IPv4 addresses. The utility supports testing common domain suffixes and all possible suffixes available in its database, making it a versatile tool for network administrators, developers, and anyone interested in DNS resolution.
 
+![I4-DLU Logo](https://github.com/user-attachments/assets/9ebcbce6-c754-45bd-a8b2-278c1fb1bc02)
+
 ## Features
 
 - **Common Suffix Testing**: Automatically tests common domain suffixes (e.g., `.com`, `.org`, `.net`) to find valid IPv4 addresses.
